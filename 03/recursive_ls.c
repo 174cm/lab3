@@ -1,6 +1,7 @@
 /*
 title: System programing lab3 number 3
-filename: recursive_ls.c
+file name: recursive_ls.c
+breif: A program that recursively visits and lists files in that directory
 author: github_174cm
 */
 

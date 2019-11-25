@@ -1,3 +1,10 @@
+/*
+title: System programing lab3 number 5
+file name: atexitprocess.c
+breif: Using atexit function program
+author: github_174cm
+*/
+
 #include <stdlib.h>
 #include <stdio.h>
 

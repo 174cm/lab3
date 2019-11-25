@@ -1,8 +1,10 @@
 /*
-title: System programing lab3 number 7 
+title: System programing lab3 number 7
 file name: send_signal.c
-author: github_174cm 
+brief:  Program to send and wait for signals
+author: github_174cm
 */
+
 #include <sys/types.h>
 #include <signal.h>
 #include <stdio.h>

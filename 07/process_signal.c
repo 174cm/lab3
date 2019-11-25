@@ -1,6 +1,7 @@
 /*
 title: System programing lab3 number 7 
 file name: precess_signal.c
+breif: Program that allows signal handlers to receive interrupt signals
 author: github_174cm 
 */
 #include <stdio.h>

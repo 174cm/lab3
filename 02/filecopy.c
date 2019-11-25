@@ -1,3 +1,10 @@
+/*
+title: System programing lab3 number 2
+file name: filecopy.c
+breif: Program to copy files
+author: github_174cm
+*/
+
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>

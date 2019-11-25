@@ -1,3 +1,9 @@
+/*
+title: System programing lab3 number 9
+file name: chatting_usr2.c
+brief: Simple chat program using message queue, user2.
+author: github_174cm
+*/
 #include <sys/types.h>
 #include <mqueue.h>
 #include <stdio.h>

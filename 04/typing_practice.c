@@ -1,6 +1,7 @@
 /*
 title: System programing lab3 number 4
-filename: typing_practice.c
+file name: typing_practice.c
+breif: typing pracitce program
 author: github_174cm
 */
 
@@ -19,10 +20,7 @@ int main(void)
 {
     int fd;
     time_t tStart, tEnd;
-    char text[4][100] = {{"Sofware Development Agreement"},
-    {"Software Reseller Agreement"},
-    {"System Integration Agreement"},
-    {"Manufacturing Agreement"}};
+    char text[4][100] = {{"Sofware Development Agreement"}, {"Software Reseller Agreement"}, {"System Integration Agreement"}, {"Manufacturing Agreement"}};
     struct termios init_attr, new_attr;
     int randnum;
     fd = open(ttyname(fileno(stdin)), O_RDWR);

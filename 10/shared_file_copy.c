@@ -1,3 +1,10 @@
+/*
+title: System programing lab3 number 4
+file name: shared_file_copy.c
+breif: Program to copy to another file using shared memory
+author: github_174cm
+*/
+
 #include <sys/types.h> 
 #include <sys/ipc.h> 
 #include <sys/shm.h>

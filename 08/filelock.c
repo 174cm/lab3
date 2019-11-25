@@ -1,3 +1,10 @@
+/*
+title: System programing lab3 number 8
+file name: filelock.c
+brief: record lock example 1
+author: github_174cm
+*/
+
 #include <stdio.h>
 #include <fcntl.h>
 #include <unistd.h>

@@ -1,6 +1,7 @@
 /*
 title: System programing lab3 number 6
-filename: myshell.c
+file name: ls_shell.c
+breif: ls -la shell.
 author: github_174cm
 */
 #include <errno.h>

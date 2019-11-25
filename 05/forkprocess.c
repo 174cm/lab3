@@ -1,3 +1,10 @@
+/*
+title: System programing lab3 number 5
+file name: atexitprocess.c
+breif: Using fork function program
+author: github_174cm
+*/
+
 #include <sys/types.h>
 #include <unistd.h>
 #include <stdlib.h>
